@@ -1,9 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 My name is Valeri
 ==============================================================================================================================
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%9370DB&lines=DevOps+and+Androlid+Developer)](https://git.io/typing-svg)
 
-----------------------------
 I'm a driven 4th-year student with a strong affinity for languages like C# and Kotlin. I thrive on the challenges that programming presents and love to explore the incredible possibilities provided by these languages. If you visit my GitHub, you'll discover a collection of projects and code samples showcasing my passion and dedication. Let's collaborate and bring our coding dreams to life!
 __________
 🌍  I'm based in Yekaterinburg
