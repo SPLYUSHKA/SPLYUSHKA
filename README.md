@@ -5,7 +5,9 @@ My name is Valeri
 
 ----------------------------
 I'm a driven 4th-year student with a strong affinity for languages like C# and Kotlin. I thrive on the challenges that programming presents and love to explore the incredible possibilities provided by these languages. If you visit my GitHub, you'll discover a collection of projects and code samples showcasing my passion and dedication. Let's collaborate and bring our coding dreams to life!
-*🌍  I'm based in Yekaterinburg
+__________
+🌍  I'm based in Yekaterinburg
+__________
 * ✉️  You can contact me at [lerka.elizarova@bk.ru](mailto:lerka.elizarova@bk.ru)
 
 ### Skills
